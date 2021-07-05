@@ -25,7 +25,10 @@ public static void sendDiscordWebhook(string URL, string escapedjson)
 <h3>How To Use</h3>
 First we need to get the Webhook URL
 
-![](https://i.imgur.com/uyU3ms8.png)
+![image](https://user-images.githubusercontent.com/36981621/124410945-d430e200-dd8e-11eb-8015-114d4ab0ee87.png)
+
+
+
 After making the webhook, get the URL.
 
 Now put it in an event like this:
